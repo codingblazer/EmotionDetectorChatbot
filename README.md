@@ -13,4 +13,4 @@ If you are interested in learning how the Affectiva SDK works, you will find the
 ***
 Copyright (c) 2016 Affectiva Inc. <br> See the file [license.txt](license.txt) for copying permission.
 
-This app uses some of the excellent [Emoji One emojis](http://emojione.com).
+This app uses some of the excellent [Emoji One emojis](http://emojione.com)
