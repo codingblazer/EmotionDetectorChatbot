@@ -29,4 +29,7 @@
     <dimen name="grid_item_bottom_padding">8dp</dimen>
     <dimen name="grid_item_metric_name">15sp</dimen>
     <dimen name="metric_chooser_column_width">140dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
 </resources>

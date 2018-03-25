@@ -16,4 +16,10 @@
     <color name="grid_item_not_chosen">#646464</color>
     <color name="grid_item_chosen">#009600</color>
     <color name="grid_item_chosen_over_limit">#cf1a0b</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#646464</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
 </resources>
